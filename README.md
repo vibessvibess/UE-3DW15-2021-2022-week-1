@@ -1,3 +1,3 @@
 # UE-3DW15-2021-2022-week-1
 
-Repository for the students of UE 3DW15 course.
+1 .merge d'une branche de travail directement sur la branche master
